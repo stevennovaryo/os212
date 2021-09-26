@@ -24,3 +24,8 @@ ZCZC W02 300 L70 Doing competitive programming with C++
 ZCZC W02  20 L03 Stalk other students's progress
 ZCZC W02  30 L64 Describing the basic of cyber security to friends
 ZCZC W02  30 L28 Decorate my windows terminal for better experience in ssh (add theme, background, etc.)
+ZCZC W03 300 L70 Competitive programming stuff, ICPC selection, Facebook Hacker Cup, etc.
+ZCZC W03 200 L06 Read OSC ch 13, 14, and 15
+ZCZC W03  60 L09 assignment in general
+ZCZC W03  60 L07 Trying out demos in WSL
+ZCZC W03 600 L72 KSN's Scientific committee

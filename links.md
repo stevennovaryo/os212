@@ -18,4 +18,7 @@ An educative website to learn shell interactively, these interactive application
 I am the type of person that likes to learn from conversation and video, specifically complex or complicated stuff. Computerphile, a Youtube channel, helps a lot in the general understanding of subjects. It provides many videos explaining the operating system's subjects.
 
 5. <b>[Hackmd](https://hackmd.io/?nav=overview)</b><br>
-A markdown editor that i use a lot. It is different from normal editor because it support real-time collaboration with other user and it save your MD in it's cloud. 
+A markdown editor that i use a lot. It is different from normal editor because it support real-time collaboration with other user and it save your MD in it's cloud.
+
+6. <b>[GeeksForGeeks (website)](https://www.geeksforgeeks.org/)</b><br>
+A very condensed learning website and forum. It has many article about computer sciences subject, including operating system and algorithm. PS. there are also file system article [there](https://www.geeksforgeeks.org/file-systems-in-operating-system/).

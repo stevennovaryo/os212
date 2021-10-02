@@ -29,3 +29,13 @@ ZCZC W03 200 L06 Read OSC ch 13, 14, and 15
 ZCZC W03  60 L09 assignment in general
 ZCZC W03  60 L07 Trying out demos in WSL
 ZCZC W03 600 L72 KSN's Scientific committee
+ZCZC W04 150 L11 Read OSC chapter 9
+ZCZC W04 120 L12 Demo is fun
+ZCZC W04  60 L13 Try try try
+ZCZC W04   7 L14 Install Package List 2
+ZCZC W04  25 L15 WEEK04.tar.bz2.asc
+ZCZC W04  15 L17 Review and stalks my peers
+ZCZC W04   5 L18 Update my log
+ZCZC W04  60 L26 Reading textbook about pointers
+ZCZC W04  60 L25 Scripting with C
+ZCZC W04  15 L64 Helping friend

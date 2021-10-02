@@ -22,3 +22,6 @@ A markdown editor that i use a lot. It is different from normal editor because i
 
 6. <b>[GeeksForGeeks (website)](https://www.geeksforgeeks.org/)</b><br>
 A very condensed learning website and forum. It has many article about computer sciences subject, including operating system and algorithm. PS. there are also file system article [there](https://www.geeksforgeeks.org/file-systems-in-operating-system/).
+
+7. <b>[Weber State Univesity's C++ Textbook](http://icarus.cs.weber.edu/~dab/cs1410/textbook/index.html)</b><br>
+It may be over exaggerating to add a whole textbook here, but it's never a harm to learn more. The textbook also includes how pointers works in C++ [here](http://icarus.cs.weber.edu/~dab/cs1410/textbook/pointers.html). There are also videos and animated illustration in the book.

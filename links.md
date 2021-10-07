@@ -25,3 +25,6 @@ A very condensed learning website and forum. It has many article about computer 
 
 7. <b>[Weber State Univesity's C++ Textbook](http://icarus.cs.weber.edu/~dab/cs1410/textbook/index.html)</b><br>
 It may be over exaggerating to add a whole textbook here, but it's never a harm to learn more. The textbook also includes how pointers works in C++ [here](http://icarus.cs.weber.edu/~dab/cs1410/textbook/pointers.html). There are also videos and animated illustration in the book.
+
+8. <b>[UIC's OS Notes](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)</b>
+A full OS notes from UIC. It contains many similar topic that i have learn so far in out course. There are also [main memory](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/8_MainMemory.html) and [virtual memory](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/9_VirtualMemory.html) topic there. 

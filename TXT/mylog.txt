@@ -39,3 +39,11 @@ ZCZC W04   5 L18 Update my log
 ZCZC W04  60 L26 Reading textbook about pointers
 ZCZC W04  60 L25 Scripting with C
 ZCZC W04  15 L64 Helping friend
+ZCZC W05 130 L11 Read OSC Chapter 10
+ZCZC W05 120 L12 Doing demos
+ZCZC W05  75 L13 try to solve problems
+ZCZC W05  60 L14 Doing low memory and solve WEEK05.tar.bz2.asc
+ZCZC w05  10 L15 Updating links
+ZCZC W05  15 L17 Reviews
+ZCZC W05   7 L18 Logging
+

@@ -46,4 +46,10 @@ ZCZC W05  60 L14 Doing low memory and solve WEEK05.tar.bz2.asc
 ZCZC w05  10 L15 Updating links
 ZCZC W05  15 L17 Reviews
 ZCZC W05   7 L18 Logging
-
+ZCZC W06 300 L11 Read OSC ch 3 and 4
+ZCZC W06  75 L12 Do and understand some demo
+ZCZC W06  60 L13 Midterms problems is hard
+ZCZC W06  60 L14 Assignment
+ZCZC W06   5 L15 Update my bookmarks link
+ZCZC W06  25 L10 Finish other stuff associated with assignment 
+ 

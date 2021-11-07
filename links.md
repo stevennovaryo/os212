@@ -30,4 +30,11 @@ It may be over exaggerating to add a whole textbook here, but it's never a harm 
 A full OS notes from UIC. It contains many similar topic that i have learn so far in out course. There are also [main memory](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/8_MainMemory.html) and [virtual memory](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/9_VirtualMemory.html) topic there.
 
 9. <b>[fork() defined(article)](https://www.ibm.com/docs/en/zos/2.3.0?topic=functions-fork-create-new-process)</b>
-A simple definition of fork() in IBM. The description may be short but this is also an introduction to a popular CS article IBM. 
+A simple definition of fork() in IBM. The description may be short but this is also an introduction to a popular CS article IBM.
+
+10. <b>[Practice Questions on Synchronization](https://www.btechonline.org/2013/01/gate-questions-os-synchronization.html)</b>
+A quick practice after reading about materials is very helpful, you can discover new stuffs and reveal a section that you are bad at.
+
+11. <b>[Further stuff about synchronization](http://lass.cs.umass.edu/~shenoy/courses/spring10/lectures/Lec11.pdf)
+A readings about synchronization, more focused on the intermediate materials (deadlock, banker's algorithm).
+

@@ -52,4 +52,9 @@ ZCZC W06  60 L13 Midterms problems is hard
 ZCZC W06  60 L14 Assignment
 ZCZC W06   5 L15 Update my bookmarks link
 ZCZC W06  25 L10 Finish other stuff associated with assignment 
- 
+ZCZC W07 345 L11 Read OSC ch 6, 7, and 8
+ZCZC W07  65 L12 Doing and understanding demos
+ZCZC W07  35 L13 Trying some problems
+ZCZC W07  65 L14 Doing assignments
+ZCZC W07  25 L15 Update links and GSGS
+ZCZC W07  37 L10 Other stuff about assignment 

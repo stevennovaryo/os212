@@ -38,3 +38,5 @@ A quick practice after reading about materials is very helpful, you can discover
 11. <b>[Further stuff about synchronization](http://lass.cs.umass.edu/~shenoy/courses/spring10/lectures/Lec11.pdf)
 A readings about synchronization, more focused on the intermediate materials (deadlock, banker's algorithm).
 
+12. <b>[Multiple Processor Systems - Computerphile (video](https://youtu.be/3RvkfuXUv1c)</b>
+What does it mean to have multi-processor system? This video explain in brief about multiple processor systems. Learning OS material never have been more easier with video learning and visualization from some websites. Those videos are very fun to watch while doing chores, eating, or a watch before my bedtime. 

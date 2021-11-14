@@ -57,4 +57,11 @@ ZCZC W07  65 L12 Doing and understanding demos
 ZCZC W07  35 L13 Trying some problems
 ZCZC W07  65 L14 Doing assignments
 ZCZC W07  25 L15 Update links and GSGS
-ZCZC W07  37 L10 Other stuff about assignment 
+ZCZC W07  37 L10 Other stuff about assignment
+ZCZC W08 105 L11 Read OSC ch 5
+ZCZC W08  62 L12 understanding the demo
+ZCZC W08  72 L13 Trying finalterms problem
+ZCZC W08  69 L14 Preparing VM, doing, and learning LFS ch 01-04
+ZCZC W08 175 L15 Installing and learning stuffstuff from LFS ch 05
+ZCZC W08  25 L16 Update links and GSGS
+ZCZC W08  42 L10 Other stuff about submission 

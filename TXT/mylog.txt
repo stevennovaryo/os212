@@ -65,3 +65,8 @@ ZCZC W08  69 L14 Preparing VM, doing, and learning LFS ch 01-04
 ZCZC W08 175 L15 Installing and learning stuffstuff from LFS ch 05
 ZCZC W08  25 L16 Update links and GSGS
 ZCZC W08  42 L10 Other stuff about submission 
+ZCZC W09 275 L14 Finished installing LFS ch 06-07
+ZCZC W09  56 L12 Understanding demos
+ZCZC W09 102 L11 Reading OSC
+ZCZC W09  59 L13 Tring midterm problems
+ZCZC W09 112 L10 Misc

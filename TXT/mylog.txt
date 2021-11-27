@@ -70,3 +70,7 @@ ZCZC W09  56 L12 Understanding demos
 ZCZC W09 102 L11 Reading OSC
 ZCZC W09  59 L13 Tring midterm problems
 ZCZC W09 112 L10 Misc
+ZCZC W10 1440 L14 Finished installing LFS ch 08
+ZCZC W10 60 L11 Reading OSC
+ZCZC W10 35 L12 Trying demos
+ZCZC W10 92 L10 Misc

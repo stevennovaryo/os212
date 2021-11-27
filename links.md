@@ -43,3 +43,6 @@ What does it mean to have multi-processor system? This video explain in brief ab
 
 13. <b>[What are Drive Partitions? (video)](https://www.youtube.com/watch?v=AeUM4kR67XQ)</b>
 Drive partitioning can give you greater flexibility with how you store your data. How does it work? Furthermore, there are two types of partition scheme MBR and GPT.
+
+14. <b>[Basics of OS (I/O Structure) (video)](https://www.youtube.com/watch?v=F18RiREDkwE)</b>
+A simple video explaining I/O of operating system in general. After wathing the video I came up with many question. How does device interact within operating system with I/O? Why does I/O play as the large portion of operating system code. Why do we need DMA? Seriously operating system always piqued my curiosity.
